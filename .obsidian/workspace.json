@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "a4235d508ed588b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d276b93e1bed08a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5d59c64e8c651a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/微积分/1.基础知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.基础知识"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6287fb1b0419da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aea566c7c26c710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cc503ba21803541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "87a4338c63fdaaf9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fe2c8199343b471b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e29c6cde48843b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "41a244b8476f358e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d96d8a55468dac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "606537749cee35e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skills/Obsidian_Learn/Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Obsidian 的出链列表"
+            }
+          },
+          {
+            "id": "a998f89aba317ed7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e49ef3fcdd249303",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "541571d4a6d83629",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "6f019721546b7c2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Skills/Obsidian_Learn/Obsidian.md"
+              },
+              "icon": "lucide-info",
+              "title": "Obsidian的笔记属性"
+            }
+          },
+          {
+            "id": "6cefc9f178b6d409",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "751aea44b9e1be89",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "9d3b225550c2872b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "d6f478ab90a66454",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "45a10a1592c0bae4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "6f27a84449bb77c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "0496cd7d53488003",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "4cc503ba21803541",
+  "lastOpenFiles": [
+    "数学/微积分/1.基础知识.md",
+    "数学/微积分/图片/张宇/Pasted image 20260203115243.png",
+    "数学/微积分/图片/张宇/Pasted image 20260203104052.png",
+    "数学/微积分/图片/张宇/Pasted image 20260203100700.png",
+    "数学/微积分/图片/张宇/Pasted image 20260203095720.png",
+    "数学/微积分/图片/张宇/Pasted image 20260203085430.png",
+    "数学/微积分/图片/张宇/Pasted image 20260202111503.png",
+    "数学/题型总结/求极限.md",
+    "数学/题型总结/求导数.md",
+    "数学/题型总结/求不定积分1.md",
+    "数学/三大计算/注意事项.md",
+    "数学/三大计算/基础知识.md",
+    "数学/三大计算/公式和结论.md",
+    "数学/三大计算/_大纲.md",
+    "408/数据结构/基础知识.md",
+    "408/计算机网络/基础知识.md",
+    "408/图片/Pasted image 20260202173908.png",
+    "408/图片/Pasted image 20260202154407.png",
+    "408/图片/Pasted image 20260201224100.png",
+    "数学/微积分/图片/张宇/Pasted image 20260202112553.png",
+    "_大纲/考研大纲.md",
+    "数学/微积分/题型总结/求不定积分.md",
+    "408/图片",
+    "408/计算机网络/未命名",
+    "408/计算机网络",
+    "408/数据结构",
+    "408",
+    "数学/微积分/题型总结",
+    "_大纲/笔记.md",
+    "数学/微积分/张宇基础30讲/高数知识前探.md",
+    "数学/微积分/图片/杨超",
+    "数学/微积分/图片/张宇",
+    "数学/微积分/图片",
+    "408/计算机网络/一、计算机网络体系结构.md",
+    "408/数据结构与算法/笔记.md",
+    "408/数据结构与算法/_大纲.md",
+    "数学/微积分/张宇基础30讲/_大纲.md",
+    "数学/微积分/张宇基础30讲/图片",
+    "408/计算机网络/_大纲.md",
+    "数学/高数/张宇基础30讲/l.md",
+    "数学/高数.md",
+    "数学/结论.md",
+    "数学/错题.md",
+    "未命名.md",
+    "数学/三大/3、求不定积分.md",
+    "未命名.canvas"
+  ]
+}
