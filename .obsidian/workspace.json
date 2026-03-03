@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c50070ba63bdbc70",
+        "id": "91ad7dc13bb1cbfd",
         "type": "tabs",
         "children": [
           {
-            "id": "39c1cab2c595681c",
+            "id": "34a73a5f37233404",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "408/数据结构/基础知识.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基础知识"
+              "title": "新标签页"
             }
           }
         ]
@@ -265,30 +261,30 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "39c1cab2c595681c",
+  "active": "34a73a5f37233404",
   "lastOpenFiles": [
     "数学/微积分/笔记/1.函数极限与连续.md",
-    "数学/微积分/图片/张宇/Pasted image 20260220193923.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220192627.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220181858.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220181553.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220181533.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220175850.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220174957.png",
+    "数学/微积分/笔记/0.零基础.md",
+    "数学/微积分/图片/张宇/Pasted image 20260303205914.png",
+    "数学/微积分/图片/张宇/Pasted image 20260303194509.png",
+    "数学/微积分/图片/张宇/Pasted image 20260303194040.png",
+    "数学/微积分/图片/张宇/Pasted image 20260303140447.png",
+    "数学/微积分/题型总结/求不定积分.md",
+    "408/计算机网络/基础知识.md",
+    "408/图片/Pasted image 20260302182312.png",
+    "408/图片/Pasted image 20260302181914.png",
+    "408/数据结构/基础知识.md",
+    "408/图片/Pasted image 20260301213004.png",
+    "408/图片/Pasted image 20260301212609.png",
+    "408/图片/Pasted image 20260301212102.png",
+    "408/图片/Pasted image 20260301210031.png",
     "数学/三大计算/公式和结论.md",
-    "数学/微积分/图片/张宇/Pasted image 20260220174230.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220174211.png",
-    "数学/微积分/图片/张宇/Pasted image 20260220164816.png",
     "数学/三大计算/题型总结/求极限.md",
     "数学/三大计算/注意事项.md",
-    "数学/微积分/笔记/0.零基础.md",
-    "数学/微积分/题型总结/求不定积分.md",
     "数学/三大计算/基础知识.md",
     "_大纲/考研大纲.md",
     "数学/三大计算/题型总结/求导数.md",
     "数学/三大计算/题型总结/求不定积分1.md",
-    "408/数据结构/基础知识.md",
-    "408/计算机网络/基础知识.md",
     "数学/微积分/1.基础知识.md",
     "数学/微积分/笔记",
     "数学/三大计算/_大纲.md",
