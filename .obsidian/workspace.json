@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91ad7dc13bb1cbfd",
+        "id": "d70692673cd256dd",
         "type": "tabs",
         "children": [
           {
-            "id": "34a73a5f37233404",
+            "id": "9f794b3b691e26a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\" ![[Pasted image 20260304103616.png]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e29c6cde48843b29",
@@ -261,30 +260,31 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "34a73a5f37233404",
+  "active": "4cc503ba21803541",
   "lastOpenFiles": [
+    "数学/微积分/题型总结/求不定积分.md",
+    "数学/三大计算/题型总结/求不定积分1.md",
+    "数学/微积分/笔记/2.数列极限.md",
+    "数学/微积分/图片/张宇/Pasted image 20260306144519.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306144445.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306144202.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306144154.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306141632.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306141433.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306141424.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306135541.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306135336.png",
+    "数学/微积分/图片/张宇/Pasted image 20260306134750.png",
     "数学/微积分/笔记/1.函数极限与连续.md",
     "数学/微积分/笔记/0.零基础.md",
-    "数学/微积分/图片/张宇/Pasted image 20260303205914.png",
-    "数学/微积分/图片/张宇/Pasted image 20260303194509.png",
-    "数学/微积分/图片/张宇/Pasted image 20260303194040.png",
-    "数学/微积分/图片/张宇/Pasted image 20260303140447.png",
-    "数学/微积分/题型总结/求不定积分.md",
     "408/计算机网络/基础知识.md",
-    "408/图片/Pasted image 20260302182312.png",
-    "408/图片/Pasted image 20260302181914.png",
     "408/数据结构/基础知识.md",
-    "408/图片/Pasted image 20260301213004.png",
-    "408/图片/Pasted image 20260301212609.png",
-    "408/图片/Pasted image 20260301212102.png",
-    "408/图片/Pasted image 20260301210031.png",
     "数学/三大计算/公式和结论.md",
     "数学/三大计算/题型总结/求极限.md",
     "数学/三大计算/注意事项.md",
     "数学/三大计算/基础知识.md",
     "_大纲/考研大纲.md",
     "数学/三大计算/题型总结/求导数.md",
-    "数学/三大计算/题型总结/求不定积分1.md",
     "数学/微积分/1.基础知识.md",
     "数学/微积分/笔记",
     "数学/三大计算/_大纲.md",
@@ -307,7 +307,6 @@
     "数学/高数/张宇基础30讲/l.md",
     "数学/高数.md",
     "数学/结论.md",
-    "数学/错题.md",
     "未命名.canvas"
   ]
 }
