@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5e45e1464aa0b3ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b3562342684a71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b0113702348a9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "990a67016f864d19",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d25847df984192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7220a7a4b1c1e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6bf7b35ef856a734",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4dff0192a44af269",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "eba1fba4d8698cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2faf52da12283b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83416337a215e456",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "6-7.一元函数微分学的证明应用 的反向链接列表"
+            }
+          },
+          {
+            "id": "bbc433e55ca83064",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "6-7.一元函数微分学的证明应用 的出链列表"
+            }
+          },
+          {
+            "id": "729ddf10aad20748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5546339360e6cc71",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e8610a436faed9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "6-7.一元函数微分学的证明应用 的大纲"
+            }
+          },
+          {
+            "id": "de1a65868a903b97",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "6862136b4cfb765d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "49b0113702348a9f",
+  "lastOpenFiles": [
+    "数学/微积分/笔记/0.公式补充.md",
+    "数学/微积分/笔记/11.一元函数积分学的应用-积分等式与积分不等式.md",
+    "数学/微积分/笔记/9.一元函数积分学的计算.md",
+    "数学/微积分/笔记/10.一元函数积分学的几何应用.md",
+    "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+    "数学/微积分/笔记/6-7.一元函数微分学的证明题与物理应用.md",
+    "数学/微积分/笔记/5.一元函数微分学的几何应用.md",
+    "数学/微积分/笔记/4.一元函数微分学的计算.md",
+    "数学/微积分/笔记/3.一元函数微分学的概念.md",
+    "数学/微积分/笔记/2.数列极限.md",
+    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/微积分/笔记/0.零基础.md",
+    "数学/微积分/图片/张宇/Pasted image 20260421225249.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421225037.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421223051.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421223030.png",
+    "数学/微积分/图片/张宇/Pasted image 20260219155549.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421210914.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421210856.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421210624.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421210614.png",
+    "数学/微积分/图片/张宇/Pasted image 20260421210605.png",
+    "_大纲/考研记忆.md",
+    "_大纲/考研大纲.md",
+    "数学/微积分/题型总结/求不定积分.md",
+    "数学/微积分/题型总结/求微分方程.md",
+    "数学/三大计算/题型总结/求极限.md",
+    "数学/三大计算/注意事项.md",
+    "数学/三大计算/题型总结/求导数.md",
+    "数学/三大计算/公式和结论.md",
+    "数学/三大计算/题型总结/求不定积分1.md",
+    "408/操作系统/1.计算机系统概述.md"
+  ]
+}

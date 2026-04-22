@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "数学/微积分/图片/张宇",
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true,
+  "showLineNumber": false,
+  "useTab": false,
+  "vimMode": false,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
