@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5e45e1464aa0b3ab",
+    "id": "f837b5dbe3f3ee0e",
     "type": "split",
     "children": [
       {
-        "id": "80a376c702befaa4",
+        "id": "2ceb0c0bc684528a",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bb4f9f1fc4a938",
+            "id": "bd9528121923cfe9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学/微积分/笔记/14.二重积分.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "14.二重积分"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "990a67016f864d19",
+    "id": "23769fd42e240ec2",
     "type": "split",
     "children": [
       {
-        "id": "03d25847df984192",
+        "id": "9b4a517cb6688f80",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7220a7a4b1c1e4",
+            "id": "50aaaa6657abb714",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "6bf7b35ef856a734",
+            "id": "10c8236db04855a3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "4dff0192a44af269",
+            "id": "2484b0779f12168d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "eba1fba4d8698cfb",
+    "id": "254a738d3f090c47",
     "type": "split",
     "children": [
       {
-        "id": "2faf52da12283b03",
+        "id": "1f9066722c030f39",
         "type": "tabs",
         "children": [
           {
-            "id": "83416337a215e456",
+            "id": "5122112561d86042",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "file": "数学/微积分/笔记/14.二重积分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "6-7.一元函数微分学的证明应用 的反向链接列表"
+              "title": "14.二重积分 的反向链接列表"
             }
           },
           {
-            "id": "bbc433e55ca83064",
+            "id": "68cb93585e7a498f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "file": "数学/微积分/笔记/14.二重积分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "6-7.一元函数微分学的证明应用 的出链列表"
+              "title": "14.二重积分 的出链列表"
             }
           },
           {
-            "id": "729ddf10aad20748",
+            "id": "1b227bdbc24271e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +138,7 @@
             }
           },
           {
-            "id": "5546339360e6cc71",
+            "id": "b253aa9028082028",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +152,22 @@
             }
           },
           {
-            "id": "e8610a436faed9aa",
+            "id": "3dde31863feb7e0f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/微积分/笔记/6-7.一元函数微分学的证明应用.md",
+                "file": "数学/微积分/笔记/14.二重积分.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "6-7.一元函数微分学的证明应用 的大纲"
+              "title": "14.二重积分 的大纲"
             }
           },
           {
-            "id": "de1a65868a903b97",
+            "id": "eba96da15cc0e746",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -172,7 +177,7 @@
             }
           },
           {
-            "id": "6862136b4cfb765d",
+            "id": "0baada494e9f6ace",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -200,41 +205,32 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "ab7220a7a4b1c1e4",
+  "active": "bd9528121923cfe9",
   "lastOpenFiles": [
-    "数学/微积分/题型总结/求微分方程.md",
-    "数学/微积分/笔记/13.多元函数微分学.md",
-    "数学/微积分/图片/张宇/Pasted image 20260427204828.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427204800.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427195945.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427195901.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427195117.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427193756.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427193724.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427193713.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427181207.png",
-    "数学/微积分/图片/张宇/Pasted image 20260427181200.png",
-    "_大纲/考研记忆.md",
-    "数学/微积分/笔记/3.一元函数微分学的概念.md",
-    "数学/微积分/笔记/9.一元函数积分学的计算.md",
-    "数学/微积分/笔记/10.一元函数积分学的几何应用.md",
-    "数学/微积分/笔记/11-12.一元函数积分学的应用-积分等式与积分不等式+物理应用.md",
-    "数学/微积分/笔记/1.函数极限与连续.md",
-    "数学/微积分/笔记/4.一元函数微分学的计算.md",
-    "数学/微积分/笔记/2.数列极限.md",
-    "数学/微积分/笔记/6-7.一元函数微分学的证明题与物理应用.md",
-    "数学/微积分/笔记/12.积分应用.md",
-    "数学/微积分/笔记/0.公式补充.md",
-    "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
-    "数学/微积分/笔记/5.一元函数微分学的几何应用.md",
-    "数学/微积分/笔记/0.零基础.md",
-    "_大纲/考研大纲.md",
     "数学/微积分/题型总结/求不定积分.md",
-    "数学/三大计算/题型总结/求极限.md",
-    "数学/三大计算/注意事项.md",
-    "数学/三大计算/题型总结/求导数.md",
-    "数学/三大计算/公式和结论.md",
-    "数学/三大计算/题型总结/求不定积分1.md",
-    "408/操作系统/1.计算机系统概述.md"
+    "_大纲/考研记忆.md",
+    "数学/微积分/笔记/14.二重积分.md",
+    "数学/微积分/图片/张宇/Pasted image 20260501221202.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501221141.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220918.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220604.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220545.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220408.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220401.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220351.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501220229.png",
+    "数学/微积分/图片/张宇/Pasted image 20260501215616.png",
+    "数学/微积分/笔记/11-12.一元函数积分学的应用-积分等式与积分不等式+物理应用.md",
+    "数学/微积分/笔记/9.一元函数积分学的计算.md",
+    "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+    "数学/微积分/笔记/4.一元函数微分学的计算.md",
+    "数学/微积分/笔记/5.一元函数微分学的几何应用.md",
+    "数学/微积分/笔记/6-7.一元函数微分学的证明题与物理应用.md",
+    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/微积分/题型总结/求微分方程.md",
+    "数学/微积分/笔记/10.一元函数积分学的几何应用.md",
+    "数学/微积分/笔记/13.多元函数微分学.md",
+    "数学/微积分/笔记/0.零基础.md",
+    "数学/微积分/笔记/0.公式补充.md"
   ]
 }
