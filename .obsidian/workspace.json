@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f837b5dbe3f3ee0e",
+    "id": "137828ed4574f9a3",
     "type": "split",
     "children": [
       {
-        "id": "e77848810ebc3617",
+        "id": "a736fc29153ba46b",
         "type": "tabs",
         "children": [
           {
-            "id": "1cea85aa65e77b56",
+            "id": "846fa7555dec7a11",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "23769fd42e240ec2",
+    "id": "410308d3869ee3a2",
     "type": "split",
     "children": [
       {
-        "id": "9b4a517cb6688f80",
+        "id": "e5542eeea1da6bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "50aaaa6657abb714",
+            "id": "5a21fbf25318d7e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "10c8236db04855a3",
+            "id": "be6f67dfd224eb2c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#大题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "2484b0779f12168d",
+            "id": "5e2f9005969a5edb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,20 +78,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "254a738d3f090c47",
+    "id": "e899871f583587f8",
     "type": "split",
     "children": [
       {
-        "id": "1f9066722c030f39",
+        "id": "d5cd50b919f49d81",
         "type": "tabs",
         "children": [
           {
-            "id": "5122112561d86042",
+            "id": "80a3cbd5f4cd2607",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/微积分/笔记/14.二重积分.md",
+                "file": "408/操作系统/2.进程与线程/2.4 死锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,25 +101,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "14.二重积分 的反向链接列表"
+              "title": "2.4 死锁 的反向链接列表"
             }
           },
           {
-            "id": "68cb93585e7a498f",
+            "id": "7385d2cfbe17084e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/微积分/笔记/14.二重积分.md",
+                "file": "408/操作系统/2.进程与线程/2.4 死锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "14.二重积分 的出链列表"
+              "title": "2.4 死锁 的出链列表"
             }
           },
           {
-            "id": "1b227bdbc24271e9",
+            "id": "e9175000a223b736",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,7 +134,7 @@
             }
           },
           {
-            "id": "b253aa9028082028",
+            "id": "a620a8619c5acd3f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -148,22 +148,22 @@
             }
           },
           {
-            "id": "3dde31863feb7e0f",
+            "id": "2839576d284432aa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/微积分/笔记/14.二重积分.md",
+                "file": "408/操作系统/2.进程与线程/2.4 死锁.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "14.二重积分 的大纲"
+              "title": "2.4 死锁 的大纲"
             }
           },
           {
-            "id": "eba96da15cc0e746",
+            "id": "91f360ecc5cd718f",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -173,23 +173,13 @@
             }
           },
           {
-            "id": "0baada494e9f6ace",
+            "id": "249e6967bdeb0bcb",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "reminder-list"
-            }
-          },
-          {
-            "id": "81f685e908d9be09",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
+              "icon": "clock",
+              "title": "Reminders"
             }
           }
         ],
@@ -211,52 +201,21 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "eba96da15cc0e746",
+  "active": "846fa7555dec7a11",
   "lastOpenFiles": [
-    "408/操作系统/2.进程与线程/2.2 CPU调度.md",
+    "408/操作系统/2.进程与线程/2.4 死锁.md",
     "408/操作系统/2.进程与线程/2.1 进程与线程简介.md",
-    "408/操作系统/1.计算机系统概述/1.3 操作系统的运行环境.md",
-    "408/操作系统/1.计算机系统概述/1.1-1.2 操作系统的基本概念及发展历程.md",
-    "_大纲/AI工具.md",
-    "_大纲/人生.png",
-    "_大纲/考研大纲.md",
+    "408/操作系统/图片/Pasted image 20260626112021.png",
     "408/操作系统/2.进程与线程/2.3 同步与互斥.md",
-    "408/操作系统/图片/Pasted image 20260625103115.png",
-    "408/操作系统/图片/Pasted image 20260625103102.png",
-    "408/操作系统/图片/Pasted image 20260625103047.png",
-    "408/操作系统/图片/Pasted image 20260625095922.png",
-    "408/操作系统/图片/Pasted image 20260625094448.png",
-    "408/操作系统/图片/Pasted image 20260625094441.png",
-    "408/操作系统/图片/Pasted image 20260625094427.png",
-    "408/操作系统/图片/Pasted image 20260625090308.png",
-    "408/操作系统/图片/Pasted image 20260625090252.png",
-    "408/操作系统/1.计算机系统概述/1.4-1.6 操作系统结构、操作系统引导、虚拟机.md",
-    "概论冲刺笔记.md",
-    "408/操作系统/考纲.md",
-    "408/操作系统/2.进程与线程",
-    "训练.md",
-    "数学/微积分/笔记/17.多元函数积分学的预备知识.md",
-    "数学/微积分/笔记/14.二重积分.md",
-    "数学/微积分/笔记/10.一元函数积分学的几何应用.md",
-    "数学/微积分/笔记/0.公式补充.md",
-    "数学/微积分/笔记/0.零基础.md",
-    "408/操作系统/z图片",
-    "408/操作系统/三",
-    "408/操作系统/二、.md",
-    "数学/微积分/笔记/1.函数极限与连续.md",
-    "408/操作系统/1.计算机系统概述",
-    "408/操作系统/笔记/一、计算机系统概述.md",
-    "408/操作系统/笔记",
-    "408/操作系统/图片",
-    "408/操作系统/笔记",
-    "408/操作系统",
-    "408",
-    "数学/微积分/笔记/18.多元函数积分学.md",
-    "数学/微积分/笔记/16.无穷级数.md",
-    "数学/微积分/笔记/15.微分方程.md",
-    "数学/微积分/笔记/13.多元函数微分学.md",
-    "数学/微积分/笔记/11-12.一元函数积分学的应用-积分等式与积分不等式+物理应用.md",
-    "数学/微积分/笔记/9.一元函数积分学的计算.md",
-    "Z复习"
+    "408/操作系统/2.进程与线程/2.2 CPU调度.md",
+    "408/操作系统/图片/Pasted image 20260626111553.png",
+    "408/操作系统/图片/Pasted image 20260626111512.png",
+    "408/操作系统/图片/Pasted image 20260626111244.png",
+    "408/操作系统/图片/Pasted image 20260626111200.png",
+    "408/操作系统/图片/Pasted image 20260626102400.png",
+    "408/操作系统/图片/Pasted image 20260626101032.png",
+    "408/操作系统/图片/Pasted image 20260626100926.png",
+    "408/操作系统/图片/Pasted image 20260626095234.png",
+    "408/操作系统/图片/Pasted image 20260626095010.png"
   ]
 }
