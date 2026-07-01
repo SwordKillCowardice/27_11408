@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a736fc29153ba46b",
+        "id": "fac8b66033e40590",
         "type": "tabs",
         "children": [
           {
-            "id": "846fa7555dec7a11",
+            "id": "a874db238d3a198c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,21 +201,24 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "846fa7555dec7a11",
+  "active": "a874db238d3a198c",
   "lastOpenFiles": [
+    "408/操作系统/3.内存管理/3.1 内存管理概念.md",
+    "408/操作系统/图片/Pasted image 20260701093219.png",
+    "408/操作系统/图片/Pasted image 20260701093204.png",
+    "408/操作系统/图片/Pasted image 20260701093153.png",
+    "408/操作系统/图片/Pasted image 20260701092508.png",
+    "408/操作系统/图片/Pasted image 20260701092454.png",
+    "408/操作系统/图片/Pasted image 20260701092445.png",
+    "408/操作系统/图片/Pasted image 20260630153402.png",
+    "408/操作系统/图片/Pasted image 20260630153355.png",
+    "408/操作系统/图片/Pasted image 20260630153313.png",
+    "408/操作系统/图片/Pasted image 20260630152901.png",
+    "408/操作系统/2.进程与线程/2.3 同步与互斥.md",
     "408/操作系统/2.进程与线程/2.4 死锁.md",
     "408/操作系统/2.进程与线程/2.1 进程与线程简介.md",
-    "408/操作系统/图片/Pasted image 20260626112021.png",
-    "408/操作系统/2.进程与线程/2.3 同步与互斥.md",
     "408/操作系统/2.进程与线程/2.2 CPU调度.md",
-    "408/操作系统/图片/Pasted image 20260626111553.png",
-    "408/操作系统/图片/Pasted image 20260626111512.png",
-    "408/操作系统/图片/Pasted image 20260626111244.png",
-    "408/操作系统/图片/Pasted image 20260626111200.png",
-    "408/操作系统/图片/Pasted image 20260626102400.png",
-    "408/操作系统/图片/Pasted image 20260626101032.png",
-    "408/操作系统/图片/Pasted image 20260626100926.png",
-    "408/操作系统/图片/Pasted image 20260626095234.png",
-    "408/操作系统/图片/Pasted image 20260626095010.png"
+    "408/操作系统/考纲.md",
+    "408/操作系统/3.内存管理"
   ]
 }
