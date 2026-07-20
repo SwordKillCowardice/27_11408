@@ -15,5 +15,13 @@
   "editor:toggle-bold": [],
   "app:go-forward": [],
   "editor:toggle-italics": [],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "clear-unused-images-plus:clear-images-obsidian": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }
