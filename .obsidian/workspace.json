@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "244207024fb4d209",
+    "type": "split",
+    "children": [
+      {
+        "id": "cecc73ed9d5ce15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a587b6557c5f369",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5d3ae077139ffa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "201938025e76dd09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be5adf381ff7266",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c1b3cf2d57086185",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "存储器",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a4195f09334f5f96",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "37452899c4699ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f572f2a511b98ab6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78cbd1f62dfb3f50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/微积分/笔记/3.一元函数微分学的概念.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3.一元函数微分学的概念 的反向链接列表"
+            }
+          },
+          {
+            "id": "3bc24bacdfcb3674",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/微积分/笔记/3.一元函数微分学的概念.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "3.一元函数微分学的概念 的出链列表"
+            }
+          },
+          {
+            "id": "e71ad2325363d075",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "befd0920d310e84c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "edd0a78fde8bd30a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/微积分/笔记/3.一元函数微分学的概念.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "3.一元函数微分学的概念 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8a587b6557c5f369",
+  "lastOpenFiles": [
+    "408/计算机组成原理/3.存储系统/3.1-3.3 存储器概述+主存储器+主存储器与CPU的连接.md",
+    "408/计算机组成原理/图片/Pasted image 20260731174808.png",
+    "408/计算机组成原理/图片/Pasted image 20260731174755.png",
+    "408/计算机组成原理/图片/Pasted image 20260731174427.png",
+    "408/计算机组成原理/图片/Pasted image 20260731173938.png",
+    "408/计算机组成原理/图片/Pasted image 20260731173926.png",
+    "408/计算机组成原理/图片/Pasted image 20260731173602.png",
+    "408/计算机组成原理/图片/Pasted image 20260731173530.png",
+    "408/计算机组成原理/图片/Pasted image 20260731172643.png",
+    "408/计算机组成原理/图片/Pasted image 20260731172641.png",
+    "408/计算机组成原理/图片/Pasted image 20260731172627.png",
+    "408/计算机组成原理/2.数据的表示和运算/2.2 运算方法和运算电路.md",
+    "408/计算机组成原理/2.数据的表示和运算/2.1 数制和编码.md",
+    "408/计算机组成原理/2.数据的表示和运算/2.3 浮点数的表示与运算.md",
+    "408/计算机组成原理/1.计算机系统概述/1.1-1.5 计算机系统概述.md",
+    "数学/微积分/笔记/4.一元函数微分学的计算.md",
+    "数学/微积分/笔记/3.一元函数微分学的概念.md",
+    "数学/微积分/笔记/2.数列极限.md",
+    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/补给站/2.零基础.md",
+    "数学/补给站/1.画点图像.md",
+    "数学/补给站/0.记点公式.md",
+    "408/考纲.md",
+    "408/计算机组成原理/3.存储系统",
+    "408/操作系统/3.内存管理/3.1 内存管理概念.md"
+  ]
+}
