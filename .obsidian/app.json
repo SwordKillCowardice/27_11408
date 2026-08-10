@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "政治/图片",
+  "attachmentFolderPath": "数学/微积分/图片/张宇",
   "alwaysUpdateLinks": true,
   "focusNewTab": true,
   "showLineNumber": false,
@@ -8,6 +8,7 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
