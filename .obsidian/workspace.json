@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "c6c7f94be3fd61f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "810abc4fa5002a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d00d1fdb38cbc57",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d42082ef8eac5b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12b279628e509f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "122e27f7ab6cea0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d60de709c9f617fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "异常",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f50441964d9a59ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3cdba882b295d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "13571357b415d91e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca3843872d6c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "83177af00f21c13e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "c4351fe5e24c38ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9408d698a3277ef1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "08d1531c73428a4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "2d00d1fdb38cbc57",
+  "lastOpenFiles": [
+    "408/计算机组成原理/4.指令系统/4.3-4.4 程序的机器级代码表示+CISC和RISC的基本概念.md",
+    "408/计算机组成原理/4.指令系统/4.1-4.2 指令系统+寻址方式.md",
+    "408/计算机组成原理/图片/Pasted image 20260813094017.png",
+    "408/计算机组成原理/图片/Pasted image 20260813093911.png",
+    "408/计算机组成原理/图片/Pasted image 20260813093745.png",
+    "408/计算机组成原理/图片/Pasted image 20260813093642.png",
+    "408/计算机组成原理/图片/Pasted image 20260813093222.png",
+    "408/计算机组成原理/图片/Pasted image 20260813093211.png",
+    "408/计算机组成原理/图片/Pasted image 20260813092446.png",
+    "408/计算机组成原理/图片/Pasted image 20260813091034.png",
+    "408/操作系统/1.计算机系统概述/1.3 操作系统的运行环境.md",
+    "408/计算机组成原理/2.数据的表示和运算/2.2 运算方法和运算电路.md",
+    "408/计算机组成原理/图片/Pasted image 20260813082358.png",
+    "408/计算机组成原理/图片/Pasted image 20260813082343.png",
+    "政治/马原/3.唯物辩证法.md",
+    "政治/马原/2.辩证唯物论.md",
+    "政治/马原/1.导论.md",
+    "408/计算机组成原理/3.存储系统/3.4-3.6 高速缓冲存储器+外部存储器+虚拟存储器.md",
+    "408/计算机组成原理/3.存储系统/3.1-3.3 存储器概述+主存储器+主存储器与CPU的连接.md",
+    "408/计算机组成原理/2.数据的表示和运算/2.3 浮点数的表示与运算.md",
+    "408/计算机组成原理/2.数据的表示和运算/2.1 数制和编码.md",
+    "408/计算机组成原理/1.计算机系统概述/1.1-1.5 计算机系统概述.md",
+    "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
+    "数学/补给站/2.零基础.md",
+    "数学/补给站/1.画点图像.md",
+    "数学/补给站/0.记点公式.md",
+    "数学/微积分/笔记/6-7.一元函数微分学的证明题与物理应用.md",
+    "数学/微积分/笔记/5.一元函数微分学的几何应用.md",
+    "数学/微积分/笔记/3-4.一元函数微分学的概念与计算.md",
+    "数学/微积分/笔记/2.数列极限.md",
+    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/微积分/笔记/9.一元函数积分学的计算.md"
+  ]
+}
