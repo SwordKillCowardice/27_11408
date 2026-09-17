@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "c6c7f94be3fd61f3",
+    "id": "ce179d42b9e8b33c",
     "type": "split",
     "children": [
       {
-        "id": "4ff74f6571efecdd",
+        "id": "dd5b0fa31764cb06",
         "type": "tabs",
         "children": [
           {
-            "id": "4e315bd9280cca92",
+            "id": "e89f090faba95ba3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d42082ef8eac5b63",
+    "id": "34428f0060b11468",
     "type": "split",
     "children": [
       {
-        "id": "c12b279628e509f4",
+        "id": "d6cebbe861f19ae1",
         "type": "tabs",
         "children": [
           {
-            "id": "122e27f7ab6cea0e",
+            "id": "17c595da27f70d16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +46,12 @@
             }
           },
           {
-            "id": "d60de709c9f617fe",
+            "id": "485ca3b67b0458fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "行列式",
+                "query": "混合积",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "f50441964d9a59ec",
+            "id": "f2e004f144da08b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -83,20 +83,19 @@
     "collapsed": true
   },
   "right": {
-    "id": "b3cdba882b295d03",
+    "id": "11db6431d41f5a14",
     "type": "split",
     "children": [
       {
-        "id": "13571357b415d91e",
+        "id": "b1e5a387db00f9c8",
         "type": "tabs",
         "children": [
           {
-            "id": "5ca3843872d6c8b7",
+            "id": "d24994f160cc1fdc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "408/计算机组成原理/5.中央处理器/5.4-5.5 控制器+中断.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,12 +109,11 @@
             }
           },
           {
-            "id": "83177af00f21c13e",
+            "id": "c7fcc15d359e10e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -124,7 +122,7 @@
             }
           },
           {
-            "id": "c4351fe5e24c38ac",
+            "id": "b1936e468c025baa",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +137,7 @@
             }
           },
           {
-            "id": "9408d698a3277ef1",
+            "id": "53396a60d18d420b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,12 +151,11 @@
             }
           },
           {
-            "id": "08d1531c73428a4e",
+            "id": "2918365bbd9656a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,53 +177,32 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e315bd9280cca92",
+  "active": "e89f090faba95ba3",
   "lastOpenFiles": [
-    "数学/线性代数/笔记/0-1 行列式.md",
+    "数学/线性代数/笔记/4 线性方程组.md",
+    "数学/线性代数/笔记/3 向量组.md",
     "数学/线性代数/笔记/2 矩阵.md",
+    "数学/线性代数/笔记/0-1 行列式.md",
     "数学/补给站/0.记点公式.md",
-    "数学/线性代数/图片/Pasted image 20260909104029.png",
-    "数学/弱项(待突破)/11-12.一元函数积分学的应用-积分等式与积分不等式+物理应用(专题单独搞).md",
-    "数学/微积分/笔记/10.一元函数积分学的几何应用.md",
-    "数学/微积分/笔记/13.多元函数微分学.md",
-    "数学/微积分/笔记/9.一元函数积分学的计算.md",
-    "数学/微积分/笔记/8.一元函数积分学的概念与性质.md",
-    "数学/微积分/笔记/6-7.一元函数微分学的证明题与物理应用.md",
-    "数学/微积分/笔记/5.一元函数微分学的几何应用.md",
-    "数学/微积分/笔记/3-4.一元函数微分学的概念与计算.md",
-    "数学/微积分/笔记/2.数列极限.md",
-    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/微积分/笔记/17.多元函数积分学的预备知识.md",
+    "数学/线性代数/图片/Pasted image 20260917152822.png",
+    "数学/线性代数/图片/Pasted image 20260917152809.png",
+    "数学/线性代数/图片/Pasted image 20260917152758.png",
+    "数学/线性代数/图片/Pasted image 20260917144726.png",
+    "数学/线性代数/图片/Pasted image 20260917144708.png",
+    "数学/线性代数/图片/Pasted image 20260917144555.png",
+    "数学/线性代数/图片/Pasted image 20260917143412.png",
+    "数学/线性代数/图片/Pasted image 20260917143335.png",
+    "数学/线性代数/图片/Pasted image 20260917143010.png",
+    "数学/线性代数/图片/Pasted image 20260917112457.png",
     "数学/补给站/2.零基础.md",
     "数学/补给站/1.画点图像.md",
-    "数学/线性代数/图片/Pasted image 20260909104558.png",
-    "数学/线性代数/图片/Pasted image 20260909104517.png",
-    "数学/线性代数/图片/Pasted image 20260909104452.png",
-    "数学/线性代数/图片/Pasted image 20260909104437.png",
-    "数学/线性代数/图片/Pasted image 20260909104425.png",
-    "数学/线性代数/图片/Pasted image 20260909103954.png",
-    "数学/线性代数/图片/Pasted image 20260909103945.png",
-    "数学/线性代数/图片/Pasted image 20260909103927.png",
-    "数学/线性代数/图片/Pasted image 20260909103913.png",
-    "政治/考研大纲.md",
-    "政治/大纲.md",
-    "数学/微积分/笔记/14.二重积分.md",
-    "数学/微积分/笔记/15.微分方程.md",
-    "数学/线性代数/图片",
-    "数学/线性代数/笔记",
-    "数学/线性代数",
-    "政治/马原/4.认识论.md",
-    "政治/马原/3.唯物辩证法.md",
-    "政治/马原/2.辩证唯物论.md",
-    "政治/马原/1.导论.md",
-    "数学/弱项(待突破)",
-    "数学/未命名.md",
-    "_大纲/AI工具.md",
-    "408/计算机组成原理/3.存储系统/存储系统.pdf",
-    "408/计算机组成原理/3.存储系统/3.6 存储系统大全图（建议用彩色打印）.pdf",
-    "408/计算机组成原理/6-7.总线+IO系统",
-    "408/计算机组成原理/5.中央处理器"
+    "英政/马原/1.导论.md",
+    "英政/英语.md",
+    "英政/马原/5.唯物史观.md"
   ]
 }
