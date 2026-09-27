@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5b0fa31764cb06",
+        "id": "5d6c1b980507a02d",
         "type": "tabs",
         "children": [
           {
-            "id": "e89f090faba95ba3",
+            "id": "a327e8361c62b75f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学/线性代数/笔记/0-1 行列式.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "0-1 行列式"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "混合积",
+                "query": "高数二轮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,28 +185,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e89f090faba95ba3",
+  "active": "a327e8361c62b75f",
   "lastOpenFiles": [
-    "数学/线性代数/笔记/4 线性方程组.md",
-    "数学/线性代数/笔记/3 向量组.md",
     "数学/线性代数/笔记/2 矩阵.md",
-    "数学/线性代数/笔记/0-1 行列式.md",
-    "数学/补给站/0.记点公式.md",
-    "数学/微积分/笔记/17.多元函数积分学的预备知识.md",
-    "数学/线性代数/图片/Pasted image 20260917152822.png",
-    "数学/线性代数/图片/Pasted image 20260917152809.png",
-    "数学/线性代数/图片/Pasted image 20260917152758.png",
-    "数学/线性代数/图片/Pasted image 20260917144726.png",
-    "数学/线性代数/图片/Pasted image 20260917144708.png",
-    "数学/线性代数/图片/Pasted image 20260917144555.png",
-    "数学/线性代数/图片/Pasted image 20260917143412.png",
-    "数学/线性代数/图片/Pasted image 20260917143335.png",
-    "数学/线性代数/图片/Pasted image 20260917143010.png",
-    "数学/线性代数/图片/Pasted image 20260917112457.png",
     "数学/补给站/2.零基础.md",
     "数学/补给站/1.画点图像.md",
-    "英政/马原/1.导论.md",
+    "数学/补给站/0.记点公式.md",
     "英政/英语.md",
-    "英政/马原/5.唯物史观.md"
+    "英政/马原/8.科学社会主义.md",
+    "英政/马原/7.资本主义的发展及趋势.md",
+    "英政/马原/6.资本主义的本质及规律.md",
+    "英政/马原/5.唯物史观.md",
+    "英政/马原/4.认识论.md",
+    "英政/马原/3.唯物辩证法.md",
+    "英政/马原/2.辩证唯物论.md",
+    "英政/马原/1.导论.md",
+    "数学/微积分/笔记/1.函数极限与连续.md",
+    "数学/微积分/笔记/2.数列极限.md",
+    "数学/微积分/图片/张宇/Pasted image 20260216085735.png",
+    "数学/微积分/图片/张宇/Pasted image 20260211102850.png",
+    "数学/微积分/图片/张宇/Pasted image 20260203115243.png",
+    "数学/微积分/图片/张宇/Pasted image 20260927094648.png",
+    "数学/微积分/图片/张宇/Pasted image 20260927094634.png",
+    "数学/微积分/图片/张宇/Pasted image 20260927094608.png",
+    "数学/微积分/图片/张宇/Pasted image 20260927094555.png",
+    "数学/微积分/图片/张宇/Pasted image 20260211105642.png",
+    "数学/微积分/图片/张宇/Pasted image 20260211105528.png",
+    "数学/微积分/图片/张宇/Pasted image 20260207101119.png",
+    "数学/线性代数/笔记/6 二次型.md",
+    "数学/线性代数/笔记/5 特征值与特征向量.md",
+    "数学/线性代数/笔记/4 线性方程组.md",
+    "数学/线性代数/笔记/3 向量组.md",
+    "数学/线性代数/笔记/0-1 行列式.md",
+    "数学/微积分/笔记/17.多元函数积分学的预备知识.md"
   ]
 }
