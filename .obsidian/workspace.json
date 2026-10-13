@@ -1,24 +1,66 @@
 {
   "main": {
-    "id": "ce179d42b9e8b33c",
+    "id": "6938421b7c5ace48",
     "type": "split",
     "children": [
       {
-        "id": "b473236a020b20ea",
+        "id": "2edce6122fcd6b01",
         "type": "tabs",
         "children": [
           {
-            "id": "d48f0cdba4f8f487",
+            "id": "541b50db9a950790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/概率论/笔记/1 随机事件与概率.md",
+                "file": "数学/B线性代数/笔记/0-1 行列式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 随机事件与概率"
+              "title": "0-1 行列式"
+            }
+          },
+          {
+            "id": "849acbcf98dfcba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/C概率论/笔记/1 随机事件及其概率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 随机事件及其概率"
+            }
+          },
+          {
+            "id": "c41ffc56885a08e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/A微积分/笔记/2.数列极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.数列极限"
+            }
+          },
+          {
+            "id": "6bc84322b2c09c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/A微积分/笔记/14.二重积分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.二重积分"
             }
           }
         ]
@@ -27,15 +69,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "34428f0060b11468",
+    "id": "d04d658905d63ffb",
     "type": "split",
     "children": [
       {
-        "id": "d6cebbe861f19ae1",
+        "id": "135ffc3c881d46af",
         "type": "tabs",
         "children": [
           {
-            "id": "17c595da27f70d16",
+            "id": "3f139897665f7a1b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +92,12 @@
             }
           },
           {
-            "id": "485ca3b67b0458fe",
+            "id": "6078c93e157b645f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:线代三轮",
+                "query": "tag:#高数三轮",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +109,7 @@
             }
           },
           {
-            "id": "f2e004f144da08b7",
+            "id": "b58a94c832dedc1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,19 +129,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "11db6431d41f5a14",
+    "id": "ed1ed76b5330d7dd",
     "type": "split",
     "children": [
       {
-        "id": "b1e5a387db00f9c8",
+        "id": "7d61de44f58b2197",
         "type": "tabs",
         "children": [
           {
-            "id": "d24994f160cc1fdc",
+            "id": "15d1fd3733a2bb99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数学/概率论/笔记/3 二维随机变量及其分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +156,12 @@
             }
           },
           {
-            "id": "c7fcc15d359e10e2",
+            "id": "2e19420c43a4fcc4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数学/概率论/笔记/3 二维随机变量及其分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -126,7 +170,7 @@
             }
           },
           {
-            "id": "b1936e468c025baa",
+            "id": "7dbd7e28082144ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +185,7 @@
             }
           },
           {
-            "id": "53396a60d18d420b",
+            "id": "947199dcc2fb0c37",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,11 +199,12 @@
             }
           },
           {
-            "id": "2918365bbd9656a1",
+            "id": "5b0d0719d4658bc2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "数学/概率论/笔记/3 二维随机变量及其分布.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,42 +230,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d48f0cdba4f8f487",
+  "active": "541b50db9a950790",
   "lastOpenFiles": [
-    "数学/线性代数/笔记/0-1 行列式.md",
-    "数学/概率论/笔记/1 随机事件与概率.md",
-    "数学/线性代数/笔记/6 二次型.md",
-    "数学/概率论/笔记",
-    "数学/概率论/图片",
-    "数学/概率论",
-    "数学/线性代数/笔记/5 特征值与特征向量.md",
-    "数学/线性代数/笔记/4 线性方程组.md",
-    "数学/线性代数/笔记/3 向量组.md",
-    "数学/线性代数/笔记/2 矩阵.md",
-    "数学/补给站/2.零基础.md",
-    "数学/补给站/1.画点图像.md",
-    "数学/补给站/0.记点公式.md",
-    "数学/线性代数/图片/Pasted image 20261001221019.png",
-    "数学/线性代数/图片/Pasted image 20261001220928.png",
-    "数学/线性代数/图片/Pasted image 20261001220910.png",
-    "数学/线性代数/图片/Pasted image 20261001220118.png",
-    "数学/线性代数/图片/Pasted image 20261001220106.png",
-    "数学/线性代数/图片/Pasted image 20261001220049.png",
-    "数学/线性代数/图片/Pasted image 20261001220035.png",
-    "数学/线性代数/图片/Pasted image 20261001210959.png",
-    "数学/线性代数/图片/Pasted image 20261001210948.png",
-    "数学/线性代数/图片/Pasted image 20261001210621.png",
+    "数学/A微积分/笔记/14.二重积分.md",
+    "数学/A微积分/笔记/2.数列极限.md",
+    "数学/C概率论/笔记/1 随机事件及其概率.md",
+    "数学/B线性代数/笔记/0-1 行列式.md",
+    "数学/A微积分/笔记/13.多元函数微分学.md",
+    "数学/A微积分/笔记/1.函数极限与连续.md",
+    "数学/D补给站/2.零基础.md",
+    "数学/D补给站/1.画点图像.md",
+    "数学/D补给站/0.记点公式.md",
+    "数学/A微积分/笔记/18.多元函数积分学.md",
+    "数学/A微积分/图片/张宇/Pasted image 20261013100459.png",
+    "数学/最弱项(待突破)/11-12.一元函数积分学的应用-积分等式与积分不等式+物理应用(专题单独搞).md",
+    "数学/A微积分/笔记/10.一元函数积分学的几何应用.md",
+    "数学/A微积分/图片/张宇/Pasted image 20261013095454.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261013095443.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261013095355.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261013093105.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261013092841.png",
+    "数学/A微积分/图片/张宇/Pasted image 20260427180809.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261012193618.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261012182148.png",
+    "数学/A微积分/图片/张宇/Pasted image 20261012182134.png",
     "英政/英语.md",
+    "数学/A微积分/笔记/5.一元函数微分学的几何应用.md",
+    "数学/A微积分/笔记/15.微分方程.md",
+    "数学/A微积分/笔记/9.一元函数积分学的计算.md",
+    "数学/C概率论/笔记/4-5 数字特征+大数定律和中心极限定理.md",
+    "数学/C概率论/笔记/3 二维随机变量及其分布.md",
+    "数学/C概率论/笔记/2 一维随机变量及其分布.md",
+    "数学/B线性代数/笔记/6 二次型.md",
+    "数学/B线性代数/笔记/5 特征值与特征向量.md",
+    "数学/B线性代数/笔记/4 线性方程组.md",
+    "数学/B线性代数/笔记/3 向量组.md",
+    "数学/B线性代数/笔记/2 矩阵.md",
     "英政/马原/8.科学社会主义.md",
-    "英政/马原/7.资本主义的发展及趋势.md",
-    "英政/马原/6.资本主义的本质及规律.md",
-    "英政/马原/5.唯物史观.md",
-    "英政/马原/4.认识论.md",
-    "英政/马原/3.唯物辩证法.md",
-    "英政/马原/2.辩证唯物论.md",
-    "英政/马原/1.导论.md",
-    "数学/微积分/笔记/1.函数极限与连续.md",
-    "数学/微积分/笔记/2.数列极限.md",
-    "数学/微积分/笔记/17.多元函数积分学的预备知识.md"
+    "英政/马原/7.资本主义的发展及趋势.md"
   ]
 }
